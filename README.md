@@ -1,2 +1,1 @@
-# myFirstJS
-# Tests with javascript nodes and npm
+# myFirstJS - Tests with javascript nodes and npm
